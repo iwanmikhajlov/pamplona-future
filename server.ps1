@@ -278,6 +278,7 @@ function Start-Server {
       -e POSTGRES_USER=$dbUser `
       -e POSTGRES_PASSWORD=$dbPassword `
       -e POSTGRES_DB=$dbName `
+      -v pamplona-future-db_volume:/var/lib/postgresql/data `
       postgres:17 2>&1
 
     if ($LASTEXITCODE -ne 0) {

@@ -1,8 +1,8 @@
-# Pamplona Future AIO
+# Pamplona Future All-in-One
 
-Fork with pretty menu and plug-and-play dockerization for easy server setup.
+Fork with pretty menu and plug-and-play dockerization for easy local server setup
 
-<img width="525" height="475" alt="Menu Preview" src="https://github.com/user-attachments/assets/f6a63f6e-e4ed-42ad-a0af-f7e7c1dd4ead" />
+<img width="704" height="458" alt="menu" src="https://github.com/user-attachments/assets/4ab3b48f-3f74-4472-891e-862817245dca" />
 
 ---
 
@@ -26,8 +26,12 @@ Fork with pretty menu and plug-and-play dockerization for easy server setup.
    ```
 
 3. **Follow the menu** to install and configure the server
+<img width="1280" height="907" alt="configuration" src="https://github.com/user-attachments/assets/c2ad5394-a58d-4927-aa7b-4db7a67aab88" />
+
+<img width="929" height="396" alt="success" src="https://github.com/user-attachments/assets/c95638df-562e-4d29-a63f-b26ad4781c88" />
 
 4. **Launch the game** and enjoy!
+<img width="449" height="276" alt="{A76D9284-BAAE-4790-98DE-0E9A0A676A9B}" src="https://github.com/user-attachments/assets/f7713fac-58bf-48cc-b7c1-cbbbeca3c551" />
 
 ---
 

@@ -965,7 +965,6 @@ function Test-DockerAvailable {
     if (-not $dockerInstalled) {
         Show-MessageBox -Title "Docker Not Found" -Message @(
             "Docker is not installed on this system.",
-            "",
             "Please install Docker Desktop from:",
             "https://www.docker.com/products/docker-desktop"
         ) -Type "Error"
@@ -981,7 +980,6 @@ function Test-DockerAvailable {
     } catch {
         Show-MessageBox -Title "Docker Not Running" -Message @(
             "Docker is installed but not running.",
-            "",
             "Please start Docker Desktop and try again."
         ) -Type "Error"
         return $false
